@@ -118,3 +118,11 @@ This project was created as a portfolio project to demonstrate practical SQL ski
 ### Doctor Appointment Cancellation Rate
 
 ![Doctor Appointment Cancellation Rate](screenshots/hospital_doctor_cancellation_rate.png)
+
+## Key Findings
+
+- Total billing revenue across the dataset was approximately $551,249.85.
+- April had the largest month-over-month revenue increase, rising by approximately $16,967.25 compared with March.
+- Patient P012 had the highest total billed amount among the high-utilization patients identified, with 10 appointments and approximately $30,053.09 in total billing.
+- Doctor D007 had the highest appointment cancellation rate at approximately 38.46%.
+- The analysis demonstrates how SQL can be used to evaluate patient utilization, operational performance, and healthcare revenue trends.
