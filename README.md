@@ -100,3 +100,21 @@ The original dataset is licensed under CC BY-SA 4.0. Attribution is provided to 
 ## Purpose
 
 This project was created as a portfolio project to demonstrate practical SQL skills and the ability to use relational healthcare data to answer business-focused analytical questions.
+
+## Analysis Screenshots
+
+### Cumulative Monthly Revenue
+
+![Cumulative Monthly Revenue](screenshots/advanced_cumulative_monthly_revenue.png)
+
+### Month-over-Month Revenue Change
+
+![Month-over-Month Revenue Change](screenshots/advanced_monthly_revenue_change.png)
+
+### High-Utilization, High-Revenue Patients
+
+![High-Utilization, High-Revenue Patients](screenshots/patient_high_utilization_high_revenue.png)
+
+### Doctor Appointment Cancellation Rate
+
+![Doctor Appointment Cancellation Rate](screenshots/hospital_doctor_cancellation_rate.png)
